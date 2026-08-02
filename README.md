@@ -26,6 +26,8 @@ Available in two forms:
 | API Client | OpenAI SDK (Groq's OpenAI-compatible endpoint) |
 | Config | python-dotenv |
 
+- GitHub Achievements support
+
 ## 🚀 Setup
 
 1. Clone the repo:
