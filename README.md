@@ -26,6 +26,14 @@ Available in two forms:
 | API Client | OpenAI SDK (Groq's OpenAI-compatible endpoint) |
 | Config | python-dotenv |
 
+## 🚀 Upcoming Features
+
+- Multi-agent research workflow
+- PDF and DOCX report export
+- Search result citations
+- Interactive research dashboard
+- Follow-up question support
+
 ## 🚀 Setup
 
 1. Clone the repo:
